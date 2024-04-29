@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644024790023",
+    "project_id": "snekgame-d4fc0",
+    "storage_bucket": "snekgame-d4fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644024790023:android:2ecbb6b0dc3ff341954ea2",
+        "android_client_info": {
+          "package_name": "com.DEADPOOLpv.app_project_snek_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644024790023-k7aqc93vhd6vbjkmfoo35enp1f2b3ue5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DEADPOOLpv.app_project_snek_game",
+            "certificate_hash": "e0adc65f63aab0281e9af15d5b3fb1ba36421791"
+          }
+        },
+        {
+          "client_id": "644024790023-8fobgdeodqn5vr2p6mh9bnei9irhbh81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCK7mtddjIM5VaOW50A08Lu5swfjmBBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644024790023-8fobgdeodqn5vr2p6mh9bnei9irhbh81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
