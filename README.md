@@ -1,4 +1,16 @@
-# Snake_Game_App_Development_Project
-My project for "App Development Using Flutter"
-This is my final submittion for my "App Development using Flutter" course. 
-A lot more can be done on this project and I will be updating it from time to time.
+# app_project_snek_game
+
+Snek Game
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
