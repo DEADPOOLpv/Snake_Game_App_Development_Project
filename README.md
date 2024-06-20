@@ -3,7 +3,7 @@ This Flutter code simulates the traditional Snake game, in which players use tou
 
 <table>
   <tr>
-    <td><img src="HomeScreen.jpg" alt="HomePage_Screenshot"></td>
+    <td><img src="HomeScreen.jpg" alt="HomePage_Screenshot" width="200"></td>
     <td><img src="GameScreen.jpg" alt="GamePage_Screenshot"></td>
   </tr>
 </table>
