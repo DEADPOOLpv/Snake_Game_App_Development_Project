@@ -1,4 +1,5 @@
 # Flutter Snake Game
+This Flutter code simulates the traditional Snake game, in which players use touch gestures to guide a snake around a grid and devour food. When the snake collides with itself or the borders, the game calculates the score and shows an alert dialogue.
 
 <table>
   <tr>
@@ -6,8 +7,6 @@
     <td><img src="GameScreen.jpg" alt="GamePage_Screenshot"></td>
   </tr>
 </table>
-
-This Flutter code simulates the traditional Snake game, in which players use touch gestures to guide a snake around a grid and devour food. When the snake collides with itself or the borders, the game calculates the score and shows an alert dialogue.
 
 ## Key features:
 
